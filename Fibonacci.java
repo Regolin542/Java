@@ -1,6 +1,6 @@
 package Fibonacci;
 
-public class OOP_Fibonacci {
+public class Fibonacci {
 
 public static void Fib(){
 		int x = 1;
