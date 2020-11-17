@@ -1,0 +1,1 @@
+Aplikacja ktora wycisza konkretny dzwiek jezeli slychac go min. 3 razy
