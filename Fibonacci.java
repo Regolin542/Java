@@ -9,7 +9,10 @@ public static void Fib(){
 		for(int i = 0; i < 15; i++) {
 				x =  y - x;
 				y =  y + x;
-				System.out.println(x);
+				//System.out.println(x);
+				if(x!=0) {
+					System.out.println(x);
+				}
 				
 		}
 		
